@@ -1,0 +1,7 @@
+--colour
+--diff
+--debugger
+--format specdoc
+--loadby mtime
+--reverse
+--pattern "spec/**/*_spec.rb"
